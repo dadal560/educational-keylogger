@@ -117,27 +117,6 @@ L'exécutable sera généré dans le dossier `dist/`.
 
 ---
 
-## Configuration
-
-Modifiez le fichier `keylogger/config.py` pour personnaliser :
-
-```python
-# Chemin des logs
-LOG_DIR = "keylogs"
-
-# Format des fichiers de log
-LOG_FORMAT = "keylog_{date}.txt"
-
-# Touche d'arrêt d'urgence
-STOP_KEY_COMBINATION = ['ctrl', 'alt', 'q']
-
-# Filtres (optionnel)
-FILTER_PASSWORDS = True
-FILTER_CREDIT_CARDS = True
-```
-
----
-
 ## Fonctionnalités
 
 ### Fonctionnalités actuelles :
