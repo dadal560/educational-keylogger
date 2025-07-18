@@ -150,28 +150,6 @@ L'exécutable sera généré dans le dossier `dist/`.
 
 ---
 
-## Tests et développement
-
-### Exécuter les tests :
-```bash
-python -m pytest tests/
-```
-
-### Développement :
-```bash
-# Mode développement
-pip install -e .
-
-# Linting
-flake8 keylogger/
-black keylogger/
-
-# Analyse sécurité
-bandit -r keylogger/
-```
-
----
-
 ## Licence
 
 Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
