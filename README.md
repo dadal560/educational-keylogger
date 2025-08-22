@@ -177,7 +177,7 @@ Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE) po
 
 ## Changelog
 
-### Version 1.0.0 (2024-01-15)
+### Version 1.0.0 (2025-07-15)
 - Première version fonctionnelle
 - Support Linux/Windows
 - Documentation complète
@@ -186,3 +186,6 @@ Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE) po
 ---
 
 **Rappel important** : Ce projet est uniquement à des fins éducatives. Utilisez-le de manière responsable et éthique dans le respect des lois en vigueur et avec l'autorisation appropriée.
+
+## ⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !
+
